@@ -5,5 +5,8 @@
   echo $h+$g;
   echo $g-$h;
   
+  $S=array();
+  
+  print_r($S);
   
 ?>
