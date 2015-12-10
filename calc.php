@@ -8,5 +8,6 @@
   echo $h+$g;
   echo $g-$h;
   
+  echo 'Exponential: '.$e.' , Logarithm: '.$l
   
 ?>
