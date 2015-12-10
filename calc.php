@@ -7,7 +7,8 @@
   
   echo $h+$g;
   echo $g-$h;
-  
+  $t = $h*$h - $g/$h*$h; 
+  echo $t; 
   $S=array();
   
   print_r($S);
